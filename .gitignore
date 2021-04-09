@@ -7,4 +7,6 @@
 /public/bundles/
 /var/
 /vendor/
+/.vscode/
+checklist.session.sql
 ###< symfony/framework-bundle ###
